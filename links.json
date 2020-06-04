@@ -1,0 +1,32 @@
+{
+  "nav1": {
+    "navName": "Favorites",
+    "navLinks": [
+      {
+        "linkName": "Udemy",
+        "linkSite": "https://udemy.com",
+        "linkPwd": "MT(RA}o3"
+      },
+      {
+        "linkName": "YouTube",
+        "linkSite": "https://YouTube.com",
+        "linkPwd": ""
+      }
+    ]
+  },
+  "nav2": {
+    "navName": "Learning",
+    "navLinks": [
+      {
+        "linkName": "Udemy",
+        "linkSite": "https://udemy.com",
+        "linkPwd": "MT(RA}o3"
+      },
+      {
+        "linkName": "YouTube",
+        "linkSite": "https://YouTube.com",
+        "linkPwd": ""
+      }
+    ]
+  }
+}
