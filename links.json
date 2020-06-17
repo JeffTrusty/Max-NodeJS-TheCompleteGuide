@@ -1,30 +1,872 @@
 {
   "nav1": {
-    "navName": "Favorites",
+    "navName": "Corporate",
+    "type": "Nav",
     "navLinks": [
       {
-        "linkName": "Udemy",
-        "linkSite": "https://udemy.com",
-        "linkPwd": "MT(RA}o3"
+        "linkName": "SR Tickets",
+        "linkSite": "https://optum.service-now.com/itss2/",
+        "linkPwd": ""
       },
       {
-        "linkName": "YouTube",
-        "linkSite": "https://YouTube.com",
+        "linkName": "Secure Work Queue",
+        "linkSite": "https://secure.uhc.com/ManualQueue/ManualQueueDetail?showAll=True",
         "linkPwd": ""
+      },
+      {
+        "linkName": "Secure Ticket Inqury",
+        "linkSite": "https://secure.uhc.com/Approver/ApproveRequest.aspx?requestId=9285260",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "App Store",
+        "linkSite": "http://appstore.uhc.com/",
+        "linkPwd": "jjt-0837u"
+      },
+      {
+        "linkName": "AVS",
+        "linkSite": "http://avs.uhc.com/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "NT Lookup",
+        "linkSite": "http://ntlookup.uhc.com/Default.aspx",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Enterprise Service Catalog (ESC)",
+        "linkSite": "https://servicecatalog.uhc.com/sc/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Rally",
+        "linkSite": "https://rally1.rallydev.com/slm/login.op",
+        "linkPwd": "jjt-0837u"
+      },
+      {
+        "linkName": "Jenkins",
+        "linkSite": "https://jenkins.optum.com/bos/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "My PC",
+        "linkSite": "http://mypc",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Hub",
+        "linkSite": "https://hub.uhg.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Help Desk",
+        "linkSite": "https://helpdesk.uhg.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Employee Discounts",
+        "linkSite": "https://uhgemployeediscounts.com/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Concur",
+        "linkSite": "http://concur.uhc.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Wiki",
+        "linkSite": "https://new-wiki.optum.com/dashboard.action#all-updates",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "ECG Cockpit",
+        "linkSite": "https://ecgdash.healthtechnologygroup.com/cockpit/home.do",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Outlook Calendar",
+        "linkSite": "https://outlook.office365.com/calendar/view/day",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Outlook Inbox",
+        "linkSite": "https://outlook.office365.com/mail/inbox",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "F5 Lookup",
+        "linkSite": "http://atmportal.optum.com/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "ASK Lookup",
+        "linkSite": "https://askevolve.uhc.com/optum/sites/uhgwm110/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Oasis Server Lookup",
+        "linkSite": "https://oasis/Reports/ServerContactsMulti",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "ITSM Server Lookup",
+        "linkSite": "https://itsmreporting.uhc.com/cmdb/srvr2srvc.aspx",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "ESOC Document Center",
+        "linkSite": "http://app40-01.optum.com/sites/SSMOTeam2/SitePages/Home.aspx",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "ERP Prod",
+        "linkSite": "https://erp-prd.optum.com/",
+        "linkPwd": "jjt-0837u"
+      },
+      {
+        "linkName": "ERP Jumpsite",
+        "linkSite": "http://apvrd25289.uhc.com:8080/links.html",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "TWS (RQ Chrome)",
+        "linkSite": "http://tws-prd-tools.uhc.com/cgi-bin/tws/tdwc.cgi",
+        "linkPwd": "jjt-0837u"
+      },
+      {
+        "linkName": "Oracle Support",
+        "linkSite": "https://support.oracle.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "UHG Knowledge Base",
+        "linkSite": "https://kpsuniversal.uhc.com/uks/search/search.do",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Web Inspect Scan",
+        "linkSite": "https://scanadministrator.uhc.com/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "5/3 Biller Direct (W01D)",
+        "linkSite": "https://53.billerdirectexpress.com/ebpp/Optum",
+        "linkPwd": "Wed01Day"
       }
     ]
   },
   "nav2": {
+    "navName": "Production",
+    "type": "Nav",
+    "navLinks": [
+      {
+        "linkName": "IAP",
+        "linkSite": "http://bos-onx.optum.com/IAP/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Onyx",
+        "linkSite": "http://10.223.194.224/OEP",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "IPS (IE Only)",
+        "linkSite": "http://bos-ips.optum.com/ips/IPSConfig.Web/default.aspx",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Service Scheduler (IE Only)",
+        "linkSite": "http://bos-sch.optum.com/ServiceSchedulerUI/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Emailer Templates (IE Only)",
+        "linkSite": "http://bos-int.optum.com/EmailerUI",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "SLM",
+        "linkSite": "http://slm.optum.com/slm/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Environmental Control",
+        "linkSite": "http://apsed0281.ms.ds.uhc.com/DevTools/EnvironmentControl/EnvironmentControl.application",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Tax Service",
+        "linkSite": "http://phnxprod.uhc.com/TaxService/Tax.svc",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "ADR",
+        "linkSite": "http://adr2.uhc.com/apps/BTS%20Phoenix/default.aspx",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Product Services",
+        "linkSite": "http://bos-ops.optum.com/ProductServices",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Application Monitoring",
+        "linkSite": "http://app40-01.optum.com/sites/SSMOTeam2/SitePages/Home.aspx",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Address Standardization (F5)",
+        "linkSite": "http://phxapp.uhc.com/VickieAI/StandardizeTest.aspx",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Address Standardization 53682",
+        "linkSite": "http://wevep53682.ms.ds.uhc.com/VickieAI/StandardizeTest.aspx",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Address Standardization 53683",
+        "linkSite": "http://wevep53683.ms.ds.uhc.com/VickieAI/StandardizeTest.aspx",
+        "linkPwd": ""
+      }
+    ]
+  },
+  "nav3": {
+    "navName": "Stage",
+    "type": "Nav",
+    "navLinks": [
+      {
+        "linkName": "Service Scheduler (IE Only)",
+        "linkSite": "http://STG-bos-sch.optum.com/ServiceSchedulerUI/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Emailer UI",
+        "linkSite": "http://apses6047.ms.ds.uhc.com/EmailerUI",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "CastIron",
+        "linkSite": "https://apsrs0104.uhc.com/login",
+        "linkPwd": "jjt-0837u"
+      },
+      {
+        "linkName": "My Apps Stage",
+        "linkSite": "https://myappsStage.uhc.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Address Standardization 45435",
+        "linkSite": "http://weves45435.ms.ds.uhc.com/VickieAI/StandardizeTest.aspx",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Address Standardization 45436",
+        "linkSite": "http://weves45436.ms.ds.uhc.com/VickieAI/StandardizeTest.aspx",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Address Standardization F5",
+        "linkSite": "https://phxapppreprod.uhc.com/VickieAI/StandardizeTest.aspx",
+        "linkPwd": ""
+      }
+    ]
+  },
+  "nav4": {
+    "navName": "Test",
+    "type": "Nav",
+    "navLinks": [
+      {
+        "linkName": "Service Scheduler",
+        "linkSite": "http://apset4623.ms.ds.uhc.com/ServiceSchedulerUI",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "My Apps Dev",
+        "linkSite": "'https://myappsdev.uhc.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Address Standardization 40056",
+        "linkSite": "http://wevet40056.ms.ds.uhc.com/VickieAI/StandardizeTest.aspx",
+        "linkPwd": ""
+      }
+    ]
+  },
+  "nav5": {
+    "navName": "Dev",
+    "type": "Nav",
+    "navLinks": [
+      {
+        "linkName": "Service Scheduler",
+        "linkSite": "https://apsed6059.ms.ds.uhc.com/ServiceSchedulerUI/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Tax Service",
+        "linkSite": "http://apsed6059/TaxService/Tax.svc",
+        "linkPwd": ""
+      }
+    ]
+  },
+  "nav6": {
+    "navName": "Favorites",
+    "type": "Nav",
+    "navLinks": [
+      {
+        "linkName": "America First CU",
+        "linkSite": "https://www.americafirst.com/",
+        "linkPwd": "Sun25Day!"
+      },
+      {
+        "linkName": "Enlighten",
+        "linkSite": "https://enlighten.enphaseenergy.com",
+        "linkPwd": "thu12day"
+      },
+      {
+        "linkName": "Amazon",
+        "linkSite": "https://smile.amazon.com",
+        "linkPwd": "Wed03Day"
+      },
+      {
+        "linkName": "X-Mission home site",
+        "linkSite": "https://user.xmission.com/~jeff_trusty/#autoopen",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "T-Mobile",
+        "linkSite": "http://my.t-mobile.com",
+        "linkPwd": "Fri27Day"
+      },
+      {
+        "linkName": "Administradium",
+        "linkSite": "file://nasv0404.uhc.com/bos_primary/accpacdatafiles/jeff_trusty/favlinks/Administradium.html",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Github-BOS",
+        "linkSite": "https://github.optum.com/BOS",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Github-Personal",
+        "linkSite": "https://jefftrusty.github.io/MySite",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Austin's Wish Site",
+        "linkSite": "https://jefftrusty.github.io/MySite/Pages/wish.html",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Old Style",
+        "linkSite": "file://nasv0404.uhc.com/bos_primary/accpacdatafiles/jeff_trusty/favlinks/iisstart.htm#autoopen",
+        "linkPwd": ""
+      }
+    ]
+  },
+  "nav7": {
     "navName": "Learning",
+    "type": "Nav",
     "navLinks": [
       {
         "linkName": "Udemy",
-        "linkSite": "https://udemy.com",
+        "linkSite": "https://www.udemy.com",
         "linkPwd": "MT(RA}o3"
       },
       {
         "linkName": "YouTube",
-        "linkSite": "https://YouTube.com",
+        "linkSite": "https://www.youtube.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Dev.To",
+        "linkSite": "https://dev.to",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Mozilla Developer Network",
+        "linkSite": "https://developer.mozilla.org/en-US/docs/Learn/HTML",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "MS Virtual Academy",
+        "linkSite": "http://www.microsoftvirtualacademy.com/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "PluralSight",
+        "linkSite": "https://www.pluralsight.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "1337 Institute Web Dev Courses (t03)",
+        "linkSite": "http://1337institute.com",
+        "linkPwd": "tue03day"
+      },
+      {
+        "linkName": "OSTraining Courses (t03)",
+        "linkSite": "https://www.ostraining.com",
+        "linkPwd": "tue03day"
+      },
+      {
+        "linkName": "Scotch.io",
+        "linkSite": "https://scotch.io/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Learn .NET",
+        "linkSite": "http://www.learnvisualstudio.net",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "SQL TrainingSpot",
+        "linkSite": "http://www.trainingspot.com/Subscriber",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Free University Courses (Google)",
+        "linkSite": "https://www.class-central.com/report/coursera-free-online-courses/#cs",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Udacity",
+        "linkSite": "https://www.udacity.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "MSDN",
+        "linkSite": "http://msdn.microsoft.com/en-us",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Azure Dashboard",
+        "linkSite": "https://manage.windowsazure.com/?whr=#Workspaces/All/dashboard",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Code School",
+        "linkSite": "https://www.codeschool.com/learn",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Code Academy",
+        "linkSite": "http://www.codecademy.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "FreeCodeCamp",
+        "linkSite": "http://freecodecamp.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Khan Academy",
+        "linkSite": "https://www.khanacademy.org",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Optum Developer",
+        "linkSite": "https://apimgr.optum.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Optum Percipio",
+        "linkSite": "https://optum.percipio.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "HTML Coded Char Set",
+        "linkSite": "http://www.w3.org/MarkUp/html-spec/html-spec_13.html",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "W3 Schools",
+        "linkSite": "http://www.w3schools.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Lynda (oLDJtSMs61EEJUKVGasJ)",
+        "linkSite": "https://www.Lynda.com",
+        "linkPwd": "oLDJtSMs61EEJUKVGasJ"
+      },
+      {
+        "linkName": "Salesforce Trailhead",
+        "linkSite": "https://developer.salesforce.com/trailhead/trail/force_com_dev_beginner",
+        "linkPwd": ""
+      },
+      {
+        "linkName": ".NET Client Web",
+        "linkSite": "http://www.windowsforms.com/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "ASP .NET",
+        "linkSite": "http://www.asp.net/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Datasets vs. Recordsets",
+        "linkSite": "http://www.learnasp.com/freebook/learn/datasets.aspx",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Microsoft E-Learning",
+        "linkSite": "https://www.microsoftelearning.com/default.aspx",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "SearchDataBase",
+        "linkSite": "http://searchdatabase.techtarget.com/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Microsoft Learn",
+        "linkSite": "https://docs.microsoft.com/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Microsoft Learn TV",
+        "linkSite": "https://docs.microsoft.com/en-us/learn/tv/",
+        "linkPwd": ""
+      }
+    ]
+  },
+  "nav8": {
+    "navName": "Google",
+    "type": "Nav",
+    "navLinks": [
+      {
+        "linkName": "Google",
+        "linkSite": "https://www.Google.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Google Voice",
+        "linkSite": "https://voice.Google.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Google News",
+        "linkSite": "https://news.Google.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Google Play",
+        "linkSite": "https://play.Google.com/store",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Google Keep",
+        "linkSite": "https://keep.Google.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Google Maps",
+        "linkSite": "https://maps.Google.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "My Google Site",
+        "linkSite": "https://sites.google.com/site/jefftrusty/",
+        "linkPwd": ""
+      }
+    ]
+  },
+  "nav9": {
+    "navName": "SQL Server",
+    "type": "Nav",
+    "navLinks": [
+      {
+        "linkName": "SQL Server Central",
+        "linkSite": "http://www.sqlservercentral.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Connection Strings",
+        "linkSite": "http://www.connectionstrings.com/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Free SQL Videos",
+        "linkSite": "http://www.sqlservervideos.com/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "SQL TrainingSpot",
+        "linkSite": "http://www.trainingspot.com/Subscriber",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "MS SQL 2005 Webcasts",
+        "linkSite": "http://www.microsoft.com/events/series/technetsqlserver2005.mspx",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "OLAP Whitepapers",
+        "linkSite": "http://www.mosha.com/msolap/tech.htm#Whitepapers",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Replication Answers",
+        "linkSite": "http://www.replicationanswers.com/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "SQL Dev Customer Advisory Team",
+        "linkSite": "http://blogs.msdn.com/sqlcat/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "SQL DTS",
+        "linkSite": "http://www.sqldts.com/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "SQL Farms",
+        "linkSite": "http://education.sqlfarms.com/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "SQL SSIS",
+        "linkSite": "http://www.sqlis.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "SQL Stuff",
+        "linkSite": "http://www.sommarskog.se/arrays-in-sql.html#list-of-string-proc",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "sql-server-performance",
+        "linkSite": "http://www.sql-server-%20performance.com/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "T-SQL and Text files",
+        "linkSite": "http://www.simple-talk.com/sql/t-sql-programming/the-tsql-of-text-files/",
+        "linkPwd": ""
+      }
+    ]
+  },
+  "nav0": {
+    "navName": "FoxPro",
+    "type": "Nav",
+    "navLinks": [
+      {
+        "linkName": "Hentzenwerke",
+        "linkSite": "http://www.hentzenwerke.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Development Freeservers",
+        "linkSite": "http://development.freeservers.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "FoxCentral.net",
+        "linkSite": "http://www.foxcentral.net",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Fox Wiki",
+        "linkSite": "http://fox.wikis.com/wc.dll?Wiki~FoxForumWiki'",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Foxite",
+        "linkSite": "http://www.foxite.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Foxtools",
+        "linkSite": "http://www.foxtools.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Oak Leaf Enterprises",
+        "linkSite": "http://www.oakleafsd.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Wiki-CBSampleAppDocs",
+        "linkSite": "http://fox.wikis.com/wc.dll?wiki~CBSampleAppDocs",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Wiki-VisualFoxPro",
+        "linkSite": "http://fox.wikis.com/wc.dll?Wiki~VisualFoxPro",
+        "linkPwd": ""
+      }
+    ]
+  },
+  "Section1": {
+    "navName": "My Most Used",
+    "type": "Section",
+    "navLinks": [
+      {
+        "linkName": "Service Now",
+        "linkSite": "https://optum.service-now.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "MyApps",
+        "linkSite": "https://MyApps.uhc.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Outlook Calendar",
+        "linkSite": "https://outlook.office365.com/calendar/view/day",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Outlook Inbox",
+        "linkSite": "https://outlook.office365.com/mail/inbox",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "PPM-Optics",
+        "linkSite": "https://ppmi.optum.com/niku/nu",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "HR Time-Entry",
+        "linkSite": "https://globalselfservice.uhg.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Jenkins",
+        "linkSite": "https://jenkins.optum.com/bos/",
+        "linkPwd": "jjt-0837u"
+      },
+      {
+        "linkName": "Rally",
+        "linkSite": "https://sso.rallydev.com/sp/startSSO.ping?PartnerIdpId=uhg.prod.com.int",
+        "linkPwd": "jjt-0837u"
+      },
+      {
+        "linkName": "Aha",
+        "linkSite": "https://optum.aha.io/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "GCS",
+        "linkSite": "http://dbsep5717/GCS/browse/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Secure",
+        "linkSite": "http://secure.uhc.com/ManualQueue/ManualQueueDetail?showAll=True",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "App Store",
+        "linkSite": "http://appstore.uhc.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Citrix Info",
+        "linkSite": "http://euts-autoprovisioning-sp.optum.com/Citrix/Info/Request%20Aide/Citrix%20Job%20Aid.aspx",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Wiki",
+        "linkSite": "https://new-wiki.optum.com/display/OBS/#space-menu-link-content",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Github-BOS",
+        "linkSite": "https://github.optum.com/BOS",
+        "linkPwd": "jjt-0837u"
+      },
+      {
+        "linkName": "Cord Cutters News",
+        "linkSite": "https://www.cordcuttersnews.com/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Amazon",
+        "linkSite": "https://smile.amazon.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "AFCU",
+        "linkSite": "https://www.americafirst.com/",
+        "linkPwd": "Sun25Day!"
+      },
+      {
+        "linkName": "Udemy",
+        "linkSite": "https://www.udemy.com",
+        "linkPwd": "MT(RA}o3"
+      },
+      {
+        "linkName": "YouTube",
+        "linkSite": "https://www.youtube.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Google",
+        "linkSite": "https://www.google.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Google Voice",
+        "linkSite": "https://voice.google.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Google News",
+        "linkSite": "https://news.google.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "MSN",
+        "linkSite": "https://www.msn.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Microsoft Learn",
+        "linkSite": "https://docs.microsoft.com/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Microsoft Learn TV",
+        "linkSite": "https://docs.microsoft.com/en-us/learn/tv/",
+        "linkPwd": ""
+      }
+    ]
+  },
+  "Section2": {
+    "navName": "Peoplesoft ERP",
+    "type": "Section",
+    "navLinks": [
+      {
+        "linkName": "ERP Prod",
+        "linkSite": "https://erp-prd.optum.com/psp/psqpr02/?cmd=login&languageCd=ENG&",
+        "linkPwd": "jjt-0837u"
+      },
+      {
+        "linkName": "ERP Jumpsite",
+        "linkSite": "http://apvrd25289.uhc.com:8080/links.html",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "ERP Post Migration Docs",
+        "linkSite": "http://app39-01.optum.com/sites/TechTrans/OCS/PSERPTechnicalInfoNew/Forms/AllItems.aspx?RootFolder=%2Fsites%2FTechTrans%2FOCS%2FPSERPTechnicalInfoNew%2FOptum%20ERP%2FRelease%20Documents%2FPost_Migration_Docs",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "ERP SharePoint",
+        "linkSite": "http://app39-01.optum.com/sites/TechTrans/OCS/Quote%20To%20Cash/Forms/AllItems.aspx",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "ERP Tech Info",
+        "linkSite": "http://app39-01.optum.com/sites/TechTrans/OCS/PSERPTechnicalInfoNew/Forms/AllItems.aspx",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "TWS (Chrome Only)",
+        "linkSite": "http://tws-prd-tools.uhc.com/cgi-bin/tws/tdwc.cgi",
         "linkPwd": ""
       }
     ]
